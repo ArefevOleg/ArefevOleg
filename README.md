@@ -1,5 +1,5 @@
 
-[![download.gif](https://i.postimg.cc/RZDRBn5g/download.gif)](https://postimg.cc/21nvdy5W)
+[![a1.gif](https://i.postimg.cc/nrVjMZ63/a1.gif)](https://postimg.cc/mzq25xZ9)
 
 
 # Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
