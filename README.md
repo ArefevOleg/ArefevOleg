@@ -1,4 +1,4 @@
-# Hi! ## My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
+# Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
 
 
 
