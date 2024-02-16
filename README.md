@@ -8,12 +8,16 @@
 
 # Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArefevOleg&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefevOleg&show_icons=true&theme=transparent)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArefevOleg&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-<p align="left">
+<!-- <p align="center">
     <a href="https://t.me/arefevoleg" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram Badge">
-  </a>
+  </a> -->
 
 
