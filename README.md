@@ -1,10 +1,4 @@
-<!-- 
-[![a1.gif](https://i.postimg.cc/nrVjMZ63/a1.gif)](https://postimg.cc/mzq25xZ9)
-
-[![download.gif](https://i.postimg.cc/JzySkX8k/download.gif)](https://postimg.cc/gxWM9nnz) -->
-
-[![download-1.gif](https://i.postimg.cc/PxB4pSWL/download-1.gif)](https://postimg.cc/VrWM2BH1)
-
+[![download.gif](https://i.postimg.cc/JzySkX8k/download.gif)](https://postimg.cc/gxWM9nnz)
 
 # Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
 
@@ -18,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-
+[![a1.gif](https://i.postimg.cc/nrVjMZ63/a1.gif)](https://postimg.cc/mzq25xZ9)
 
 
 
@@ -27,4 +21,7 @@
     <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram Badge">
   </a> -->
 
+<!-- 
+[![download-1.gif](https://i.postimg.cc/PxB4pSWL/download-1.gif)](https://postimg.cc/VrWM2BH1)
+ -->
 
