@@ -8,11 +8,9 @@
 
 # Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefevOleg&show_icons=true&theme=transparent)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArefevOleg&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefevOleg&show_icons=true&theme=transparent)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
