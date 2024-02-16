@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
+
+
+
+
+
+
 
 <!--
 **ArefevOleg/ArefevOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
