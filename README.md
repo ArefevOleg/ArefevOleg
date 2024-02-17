@@ -11,26 +11,3 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArefevOleg&show_icons=true&theme=transparent) -->
-
-<!-- [![a1.gif](https://i.postimg.cc/nrVjMZ63/a1.gif)](https://postimg.cc/mzq25xZ9) -->
-
-
-
-<!-- <p align="center">
-    <a href="https://t.me/arefevoleg" target="_blank">
-    <img src="https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram Badge">
-  </a> -->
-
-<!-- 
-[![download-1.gif](https://i.postimg.cc/PxB4pSWL/download-1.gif)](https://postimg.cc/VrWM2BH1)
- -->
-
