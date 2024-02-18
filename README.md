@@ -8,5 +8,5 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![Svg](https://i.postimg.cc/qB59x84w/download-2.gif)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/Svg.md)
+<!-- [![Svg](https://i.postimg.cc/qB59x84w/download-2.gif)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/Svg.md) -->
 
