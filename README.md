@@ -1,4 +1,4 @@
-[![download.gif](https://i.postimg.cc/JzySkX8k/download.gif)](https://github.com/ArefevOleg)
+[![download.gif](https://i.postimg.cc/JzySkX8k/download.gif)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/Svg.md)
 
 # Hi! My name is Oleg, I am a novice Frontend developer, currently studying at the cool programming school [IT-INCUBATOR](https://it-incubator.io/)
 
