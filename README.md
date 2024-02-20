@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ArefevOleg&style=flat-square)
 
-[![](https://i.postimg.cc/3R0yN8Mp/svg-svgrepo-com.png)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/imageFormats.md)
+[![](../ArefevOleg/images/svg-svgrepo-com.svg)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/imageFormats.md)
 
 
 
