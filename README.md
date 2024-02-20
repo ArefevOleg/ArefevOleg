@@ -3,7 +3,7 @@
 
 
 
-[![img.gif](../ArefevOleg/013811d63121a093c32714cbbeeea0d0.gif)](https://youtu.be/WXuK6gekU1Y?si=uzy7gUwCj2bMsFeU)
+[![](https://i.postimg.cc/WbwDfpMp/013811d63121a093c32714cbbeeea0d0.gif)](https://youtu.be/WXuK6gekU1Y?si=e1cVMdgezWtRykjr)
 
 
 
