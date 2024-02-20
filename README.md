@@ -1,4 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=500&random=false&width=650&lines=Hi!+My+name+is+Oleg%2C+I+am+a+novice+Frontend+developer;currently+studying+at+the+cool+programming+school+;IT-INCUBATOR)](https://it-incubator.io/) 
-[![](https://i.postimg.cc/Wp63frGc/download-4.gif)](https://music.yandex.ru/users/akido-rus/playlists/1001)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1CF70E&random=false&width=600&lines=Hi!+My+name+is+Oleg%2C+I+am+a+Front-end+developer)](https://github.com/ArefevOleg)
 
-![](https://komarev.com/ghpvc/?username=ArefevOleg&style=flat-square)
+
+
+
+
+
+
+
+
+
+
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001)
