@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ArefevOleg&style=flat-square)
 
 
-[![](../ArefevOleg/svg-svgrepo-com.svg)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/imageFormats.md)
+[![](../ArefevOleg/svg-svgrepo-com.png)](https://github.com/ArefevOleg/it-incubator/blob/main/abstract/imageFormats.md)
 
 
 
