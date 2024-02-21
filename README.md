@@ -14,4 +14,6 @@
 
 
 
-[![](/images/js-svgrepo-com.svg)](https://music.yandex.ru/users/akido-rus/playlists/1001)
+[![](/images/js-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/JavaScript)
+[![](/images/html-5-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/HTML)
+[![](/images/css-3-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/CSS)
