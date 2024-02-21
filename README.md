@@ -12,7 +12,7 @@
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001)
 
-### Communication with me  [![](/images/telegram-svgrepo-com.svg)](https://t.me/arefevoleg)
+[![](/images/telegram-svgrepo-com.svg)](https://t.me/arefevoleg) 
 
 [![](/images/js-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/JavaScript)
 [![](/images/html-5-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/HTML)
