@@ -10,4 +10,8 @@
 
 
 
-[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001)[![](./images/Yandex_Music_icon%20(1).svg)](https://music.yandex.ru/users/akido-rus/playlists/1001)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001)
+
+
+
+[![](/images/js-svgrepo-com.svg)](https://music.yandex.ru/users/akido-rus/playlists/1001)
