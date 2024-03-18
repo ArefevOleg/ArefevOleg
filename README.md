@@ -9,4 +9,4 @@
 [![](/images/html-5-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/HTML)
 [![](/images/css-3-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/CSS) -->
 
-# [My notes](./adaptive.md)
+# [My notes](./Mynotes.md)
