@@ -4,7 +4,7 @@ body {
 }
 
 .textMain {
-  color: white;
+  color: rgb(44, 45, 48);
   text-align: center;
   font-size: 18px;
   margin-top: 20px;
@@ -21,9 +21,13 @@ body {
   border: 1px solid red;
   border-radius: 10px;
   cursor: pointer;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 16px;
   background-color: rgb(3, 73, 73);
+
+  &:active {
+    outline: 3px solid red;
+  }
 }
 
 .container {
@@ -34,8 +38,12 @@ body {
   justify-content: center;
   width: 180px;
   height: 180px;
-  background-color: rgba(8, 204, 27, 0.5);
+  background-color: rgba(21, 226, 42, 0.883);
   border-radius: 10px;
 
-  box-shadow: 0 0 50px rgba(199, 190, 190, 0.5);
+
+  &:hover {
+    outline: 1px solid red;
+    box-shadow: 0 0 50px rgba(17, 17, 17, 0.5);
+  }
 }
