@@ -8,20 +8,11 @@
   
 </head>
 <body>
+  <script src="./RandomBtn.js"></script>
   <h1>Проверь свою удачу!</h1>
   <p id="randomNumber"></p>
 
 <button onclick="generateRandomNumber()">Сгенерировать случайное число</button>
 
-<script>
-function generateRandomNumber() {
-    // Генерируем случайное число от 1 до 100
-    var randomNumber = Math.floor(Math.random() * 10000) + 1;
-    
-    // Выводим случайное число на страницу
-    document.getElementById("randomNumber").innerHTML = "Случайное число: " + randomNumber;
-}
-</script>
-  <!-- <script src="./ScriptJS.js"></script> -->
 </body>
 </html>
