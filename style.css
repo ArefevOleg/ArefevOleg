@@ -27,7 +27,9 @@ body {
   background-color: rgb(3, 73, 73);
 
   &:active {
-    outline: 3px solid red;
+    outline: 3px solid rgba(23, 23, 23, 0.681);
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(0, 0, 0);
   }
 }
 
