@@ -9,6 +9,9 @@ function generateRandomNumber() {
   document.getElementById("randomNumber").innerHTML = "Твой любимый фрук: " + object;
 }
 
+// alert('«Я JavaScript!»');
+
+
 
 const saveEmail = () => {
   // В реальности email приходит из формы
