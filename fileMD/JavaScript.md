@@ -34,3 +34,5 @@ console.log(1 / 0);
 ```javascript
 console.log(1 / 0); 
 ```
+
+Строгий режим — "use strict"
