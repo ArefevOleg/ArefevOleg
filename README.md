@@ -1,5 +1,5 @@
 
-# :star:[About me](./About-me.md) :metal: [My life](./My-life.md) :tent:[My impressions](./My-impressions.md) :closed_book:[Notes](./Notes.md)
+# :heavy_minus_sign::star:[About me](./About-me.md) :heavy_minus_sign::metal: [My life](./My-life.md) :heavy_minus_sign::tent:[My impressions](./My-impressions.md) :heavy_minus_sign::closed_book:[Notes](./Notes.md)
 
 [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001)
 
