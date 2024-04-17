@@ -4,7 +4,7 @@
 
 [![](/images/telegram-svgrepo-com.svg)](https://t.me/arefevoleg) 
 
-# [About me](./About-me.md)
+# [About me](./About-me.md) :star:
 <!-- # [My notes](./Mynotes.md) -->
 
 <!-- [![](/images/css-3-svgrepo-com.svg)](https://ru.wikipedia.org/wiki/CSS) -->
