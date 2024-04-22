@@ -1,9 +1,11 @@
 
-# :small_orange_diamond:[About me](./About-me.md) :small_orange_diamond: [My life](./My-life.md) :small_orange_diamond: [My impressions](./My-impressions.md) :small_orange_diamond: [Notes](./Notes.md) :small_orange_diamond:
+# :small_orange_diamond:[About me](./About-me.md) :small_orange_diamond: [My life](https://t.me/arefevpro) :small_orange_diamond: [My impressions](./My-impressions.md) :small_orange_diamond: [Notes](./Notes.md) :small_orange_diamond:
 
 
 
 [![](/images/telegram-svgrepo-com.svg)](https://t.me/arefevoleg) 
+
+ 
 
 <!-- [![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=15000&pause=1000&color=00F743&random=false&width=435&lines=THE+LIFE+OF+CODER)](https://music.yandex.ru/users/akido-rus/playlists/1001) -->
 
