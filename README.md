@@ -1,1 +1,1 @@
-[Заметки](./methodsArr.md)
+[Заметки](./Notes.md)
