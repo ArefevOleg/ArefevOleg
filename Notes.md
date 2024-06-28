@@ -1,1 +1,1 @@
-[Методы массивов :memo:](./methodsArr.md)
+[Методы массивов](./methodsArr.md) :memo:
