@@ -68,4 +68,20 @@ const findFirstElement = (arr) => {
 }
 console.log(findFirstElement(arr))// "orange"
 ```
-
+```javascript
+includes()//Проверяет, есть ли элемент в массиве или подстрока в строке.
+const checkElement = (arr) => {
+  const res = arr.includes("апельсин")
+  return res
+}
+console.log(checkElement(["яблоко", "банан", "апельсин", "киви"])) // true
+```
+```javascript
+filter()//не мутабельный//позволяет получить новый массив, отфильтровав элементы с помощью переданной колбэк-функции. Колбэк-функция будет вызвана для каждого элемента массива и по результату функции примет решение включать этот элемент в новый массив или нет.
+const filterGreaterThan = (arr) => {
+  const res = arr.filter(el => el !== "TypeScript")
+  return res
+}
+console.log(filterGreaterThan(["Java", "TypeScript", "C#", "JavaScript", "Julia"]))
+// ['Java', 'C#', 'JavaScript', 'Julia']
+```
