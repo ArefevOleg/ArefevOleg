@@ -85,3 +85,26 @@ const filterGreaterThan = (arr) => {
 console.log(filterGreaterThan(["Java", "TypeScript", "C#", "JavaScript", "Julia"]))
 // ['Java', 'C#', 'JavaScript', 'Julia']
 ```
+```javascript
+sort()//мутабельный// сортирует элементы в массиве, изменяет порядок элементов в исходном массиве. По умолчанию сортировка выполняется в порядке возрастания. Каждый элемент массива приводятся к строке, и приведённые результаты сравниваются между собой.
+const numbers = [-100, 10, 25, 30, 45, 44, 1, 2, 11];
+const sortAlphabeticallyByProperty = (a, b) => {
+  return a - b
+}
+console.log(numbers.sort(sortAlphabeticallyByProperty))
+// [-100, 1, 2, 10, 11, 25, 30, 44, 45]
+// return b -a // [45, 44, 30, 25, 11, 10, 2, 1, -100]
+
+let people = [
+  { name: 'John', age: 30 },
+  { name: 'Alice', age: 25 },
+  { name: 'Bob', age: 35 },
+];
+const sort = people.sort((a, b) => a.name.localeCompare(b.name))
+console.log(people)
+//  [
+//   { name: 'Alice', age: 25 },
+//   { name: 'Bob', age: 35 },
+//   { name: 'John', age: 30 },
+// ];
+```

@@ -1,1 +1,1 @@
-[Заметки](./Notes.md) :memo:
+[Заметки](./fileMD/Notes.md) :memo:
