@@ -1,1 +1,1 @@
-[Методы массивов](./methodsArr.md)
+:small_blue_diamond:[Методы массивов](./methodsArr.md):small_blue_diamond:[Методы строк](./str.md)
