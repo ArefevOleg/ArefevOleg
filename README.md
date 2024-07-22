@@ -1,1 +1,1 @@
-[Заметки](./fileMD/Notes.md) :small_orange_diamond:
+:small_orange_diamond:[Заметки](./fileMD/Notes.md):small_orange_diamond:
