@@ -1,1 +1,1 @@
-[Заметки](./fileMD/Notes.md) :memo:
+[Заметки](./fileMD/Notes.md) :small_orange_diamond:
